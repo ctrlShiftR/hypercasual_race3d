@@ -1,0 +1,48 @@
+{
+    "en": "MAP",
+    "data": {
+        "EntryFee": 4000,
+        "WildCardCost": 10000,
+        "Plus5Cost": 10000,
+        "UndoCost": 1000,
+        "NumOfCards": 4,
+        "CardPosition": [
+            "(97,75)",
+            "(96.99999,55.99999)",
+            "(96.99999,35.99999)",
+            "(96.99999,17.99999)"
+        ],
+        "CardRotation": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "DependedOn": [
+            {
+                "index": 0,
+                "depend": [
+                    1
+                ]
+            },
+            {
+                "index": 1,
+                "depend": [
+                    2
+                ]
+            },
+            {
+                "index": 2,
+                "depend": [
+                    3
+                ]
+            }
+        ],
+        "NumberOfDeckCards": 1,
+        "MapSequence":[0,1,2,3],
+        "CardManipulation":[0,0,0,0],
+        "DeckFirstCard":4,
+        "LevelMode":1,
+        "LevelSubMode":1
+    }
+}
